@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloGeorge</string>
+    <string name="activity_main_tv_hello">Hello World!</string>
+    <string name="activity_main_btn">Send</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
